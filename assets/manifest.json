@@ -5,17 +5,29 @@
   {
    "i": 1,
    "charId": "char_4179_monstr",
-   "name": "Mon3tr"
+   "name": "Mon3tr",
+   "skin": true,
+   "skinName": "锋锐",
+   "skinId": "char_4179_monstr@boc#11",
+   "skinCount": 1
   },
   {
    "i": 2,
    "charId": "char_113_cqbw",
-   "name": "W"
+   "name": "W",
+   "skin": true,
+   "skinName": "恍惚",
+   "skinId": "char_113_cqbw@epoque#7",
+   "skinCount": 1
   },
   {
    "i": 3,
    "charId": "char_4182_oblvns",
-   "name": "丰川祥子"
+   "name": "丰川祥子",
+   "skin": true,
+   "skinName": "旋律的主人",
+   "skinId": "char_4182_oblvns@avemujica#1",
+   "skinCount": 1
   },
   {
    "i": 4,
@@ -25,37 +37,65 @@
   {
    "i": 5,
    "charId": "char_4082_qiubai",
-   "name": "仇白"
+   "name": "仇白",
+   "skin": true,
+   "skinName": "礼遇",
+   "skinId": "char_4082_qiubai@epoque#31",
+   "skinCount": 2
   },
   {
    "i": 6,
    "charId": "char_2023_ling",
-   "name": "令"
+   "name": "令",
+   "skin": true,
+   "skinName": "濯缨",
+   "skinId": "char_2023_ling@nian#9",
+   "skinCount": 3
   },
   {
    "i": 7,
    "charId": "char_4087_ines",
-   "name": "伊内丝"
+   "name": "伊内丝",
+   "skin": true,
+   "skinName": "燃烧天穹下",
+   "skinId": "char_4087_ines@boc#8",
+   "skinCount": 2
   },
   {
    "i": 8,
    "charId": "char_134_ifrit",
-   "name": "伊芙利特"
+   "name": "伊芙利特",
+   "skin": true,
+   "skinName": "日晒 SS.SP",
+   "skinId": "char_134_ifrit@summer#1",
+   "skinCount": 3
   },
   {
    "i": 9,
    "charId": "char_4058_pepe",
-   "name": "佩佩"
+   "name": "佩佩",
+   "skin": true,
+   "skinName": "星移",
+   "skinId": "char_4058_pepe@sightseer#2",
+   "skinCount": 1
   },
   {
    "i": 10,
    "charId": "char_1013_chen2",
-   "name": "假日威龙陈"
+   "name": "假日威龙陈",
+   "skin": true,
+   "skinName": "悠然假日 HD79",
+   "skinId": "char_1013_chen2@summer#20",
+   "skinCount": 2
   },
   {
    "i": 11,
    "charId": "char_003_kalts",
-   "name": "凯尔希"
+   "name": "凯尔希",
+   "skin": true,
+   "skinName": "时遗",
+   "skinId": "char_003_kalts@sale#14",
+   "skinCount": 2
   },
   {
    "i": 12,
@@ -65,12 +105,20 @@
   {
    "i": 13,
    "charId": "char_2013_cerber",
-   "name": "刻俄柏"
+   "name": "刻俄柏",
+   "skin": true,
+   "skinName": "无拘无束",
+   "skinId": "char_2013_cerber@whirlwind#2",
+   "skinCount": 2
   },
   {
    "i": 14,
    "charId": "char_426_billro",
-   "name": "卡涅利安"
+   "name": "卡涅利安",
+   "skin": true,
+   "skinName": "灿阳朝露 SD08",
+   "skinId": "char_426_billro@summer#8",
+   "skinCount": 2
   },
   {
    "i": 15,
@@ -80,57 +128,101 @@
   {
    "i": 16,
    "charId": "char_350_surtr",
-   "name": "史尔特尔"
+   "name": "史尔特尔",
+   "skin": true,
+   "skinName": "缤纷奇境 CW03",
+   "skinId": "char_350_surtr@summer#9",
+   "skinCount": 3
   },
   {
    "i": 17,
    "charId": "char_4039_horn",
-   "name": "号角"
+   "name": "号角",
+   "skin": true,
+   "skinName": "化花",
+   "skinId": "char_4039_horn@epoque#24",
+   "skinCount": 1
   },
   {
    "i": 18,
    "charId": "char_1043_leizi2",
-   "name": "司霆惊蛰"
+   "name": "司霆惊蛰",
+   "skin": true,
+   "skinName": "血翼蔷薇",
+   "skinId": "char_1043_leizi2@game#8",
+   "skinCount": 1
   },
   {
    "i": 19,
    "charId": "char_1046_sbell2",
-   "name": "圣聆初雪"
+   "name": "圣聆初雪",
+   "skin": true,
+   "skinName": "曙光祝颂",
+   "skinId": "char_1046_sbell2@ambienceSynesthesia#8",
+   "skinCount": 1
   },
   {
    "i": 20,
    "charId": "char_245_cello",
-   "name": "塑心"
+   "name": "塑心",
+   "skin": true,
+   "skinName": "无我唯识",
+   "skinId": "char_245_cello@sale#12",
+   "skinCount": 1
   },
   {
    "i": 21,
    "charId": "char_202_demkni",
-   "name": "塞雷娅"
+   "name": "塞雷娅",
+   "skin": true,
+   "skinName": "铁律",
+   "skinId": "char_202_demkni@test#1",
+   "skinCount": 3
   },
   {
    "i": 22,
    "charId": "char_2015_dusk",
-   "name": "夕"
+   "name": "夕",
+   "skin": true,
+   "skinName": "染尘烟",
+   "skinId": "char_2015_dusk@nian#7",
+   "skinCount": 2
   },
   {
    "i": 23,
    "charId": "char_4048_doroth",
-   "name": "多萝西"
+   "name": "多萝西",
+   "skin": true,
+   "skinName": "命运主宰",
+   "skinId": "char_4048_doroth@witch#4",
+   "skinCount": 1
   },
   {
    "i": 24,
    "charId": "char_179_cgbird",
-   "name": "夜莺"
+   "name": "夜莺",
+   "skin": true,
+   "skinName": "挽歌",
+   "skinId": "char_179_cgbird@witch#1",
+   "skinCount": 2
   },
   {
    "i": 25,
    "charId": "char_4146_nymph",
-   "name": "妮芙"
+   "name": "妮芙",
+   "skin": true,
+   "skinName": "甜美配方",
+   "skinId": "char_4146_nymph@epoque#42",
+   "skinCount": 2
   },
   {
    "i": 26,
    "charId": "char_4138_narant",
-   "name": "娜仁图亚"
+   "name": "娜仁图亚",
+   "skin": true,
+   "skinName": "链锯陪护者",
+   "skinId": "char_4138_narant@breaker#1",
+   "skinCount": 2
   },
   {
    "i": 27,
@@ -140,37 +232,65 @@
   {
    "i": 28,
    "charId": "char_291_aglina",
-   "name": "安洁莉娜"
+   "name": "安洁莉娜",
+   "skin": true,
+   "skinName": "夏卉 FA017",
+   "skinId": "char_291_aglina@summer#5",
+   "skinCount": 2
   },
   {
    "i": 29,
    "charId": "char_362_saga",
-   "name": "嵯峨"
+   "name": "嵯峨",
+   "skin": true,
+   "skinName": "彼有",
+   "skinId": "char_362_saga@sale#9",
+   "skinCount": 1
   },
   {
    "i": 30,
    "charId": "char_485_pallas",
-   "name": "帕拉斯"
+   "name": "帕拉斯",
+   "skin": true,
+   "skinName": "传承",
+   "skinId": "char_485_pallas@epoque#12",
+   "skinCount": 2
   },
   {
    "i": 31,
    "charId": "char_2014_nian",
-   "name": "年"
+   "name": "年",
+   "skin": true,
+   "skinName": "乐逍遥",
+   "skinId": "char_2014_nian@nian#4",
+   "skinCount": 2
   },
   {
    "i": 32,
    "charId": "char_1502_crosly",
-   "name": "弑君者"
+   "name": "弑君者",
+   "skin": true,
+   "skinName": "夜之终局",
+   "skinId": "char_1502_crosly@iteration#5",
+   "skinCount": 1
   },
   {
    "i": 33,
    "charId": "char_1023_ghost2",
-   "name": "归溟幽灵鲨"
+   "name": "归溟幽灵鲨",
+   "skin": true,
+   "skinName": "生而为一",
+   "skinId": "char_1023_ghost2@boc#6",
+   "skinCount": 1
   },
   {
    "i": 34,
    "charId": "char_4026_vulpis",
-   "name": "忍冬"
+   "name": "忍冬",
+   "skin": true,
+   "skinName": "失焦",
+   "skinId": "char_4026_vulpis@epoque#55",
+   "skinCount": 1
   },
   {
    "i": 35,
@@ -180,87 +300,155 @@
   {
    "i": 36,
    "charId": "char_112_siege",
-   "name": "推进之王"
+   "name": "推进之王",
+   "skin": true,
+   "skinName": "遗石",
+   "skinId": "char_112_siege@wild#2",
+   "skinCount": 2
   },
   {
    "i": 37,
    "charId": "char_2012_typhon",
-   "name": "提丰"
+   "name": "提丰",
+   "skin": true,
+   "skinName": "温差 RT.RX07",
+   "skinId": "char_2012_typhon@summer#17",
+   "skinCount": 2
   },
   {
    "i": 38,
    "charId": "char_4065_judge",
-   "name": "斥罪"
+   "name": "斥罪",
+   "skin": true,
+   "skinName": "记叙",
+   "skinId": "char_4065_judge@epoque#33",
+   "skinCount": 2
   },
   {
    "i": 39,
    "charId": "char_1044_hsgma2",
-   "name": "斩业星熊"
+   "name": "斩业星熊",
+   "skin": true,
+   "skinName": "一闪极意",
+   "skinId": "char_1044_hsgma2@whirlwind#11",
+   "skinCount": 1
   },
   {
    "i": 40,
    "charId": "char_263_skadi",
-   "name": "斯卡蒂"
+   "name": "斯卡蒂",
+   "skin": true,
+   "skinName": "驭浪 WR04",
+   "skinId": "char_263_skadi@summer#3",
+   "skinCount": 2
   },
   {
    "i": 41,
    "charId": "char_1041_angel2",
-   "name": "新约能天使"
+   "name": "新约能天使",
+   "skin": true,
+   "skinName": "寻翼之歌",
+   "skinId": "char_1041_angel2@iteration#6",
+   "skinCount": 1
   },
   {
    "i": 42,
    "charId": "char_197_poca",
-   "name": "早露"
+   "name": "早露",
+   "skin": true,
+   "skinName": "杰作",
+   "skinId": "char_197_poca@epoque#12",
+   "skinCount": 2
   },
   {
    "i": 43,
    "charId": "char_136_hsguma",
-   "name": "星熊"
+   "name": "星熊",
+   "skin": true,
+   "skinName": "狩标浪人",
+   "skinId": "char_136_hsguma@nian#3",
+   "skinCount": 2
   },
   {
    "i": 44,
    "charId": "char_4080_lin",
-   "name": "林"
+   "name": "林",
+   "skin": true,
+   "skinName": "列瑶台",
+   "skinId": "char_4080_lin@nian#10",
+   "skinCount": 3
   },
   {
    "i": 45,
    "charId": "char_416_zumama",
-   "name": "森蚺"
+   "name": "森蚺",
+   "skin": true,
+   "skinName": "熔锻铸匠",
+   "skinId": "char_416_zumama@boc#3",
+   "skinCount": 1
   },
   {
    "i": 46,
    "charId": "char_474_glady",
-   "name": "歌蕾蒂娅"
+   "name": "歌蕾蒂娅",
+   "skin": true,
+   "skinName": "我即潮汐",
+   "skinId": "char_474_glady@epoque#33",
+   "skinCount": 2
   },
   {
    "i": 47,
    "charId": "char_450_necras",
-   "name": "死芒"
+   "name": "死芒",
+   "skin": true,
+   "skinName": "夏卉 FA161",
+   "skinId": "char_450_necras@summer#20",
+   "skinCount": 2
   },
   {
    "i": 48,
    "charId": "char_311_mudrok",
-   "name": "泥岩"
+   "name": "泥岩",
+   "skin": true,
+   "skinName": "静谧午夜 DN06",
+   "skinId": "char_311_mudrok@summer#6",
+   "skinCount": 3
   },
   {
    "i": 49,
    "charId": "char_1012_skadi2",
-   "name": "浊心斯卡蒂"
+   "name": "浊心斯卡蒂",
+   "skin": true,
+   "skinName": "升华",
+   "skinId": "char_1012_skadi2@boc#4",
+   "skinCount": 2
   },
   {
    "i": 50,
    "charId": "char_1034_jesca2",
-   "name": "涤火杰西卡"
+   "name": "涤火杰西卡",
+   "skin": true,
+   "skinName": "《上任达维镇》",
+   "skinId": "char_1034_jesca2@cfa#1",
+   "skinCount": 1
   },
   {
    "i": 51,
    "charId": "char_1031_slent2",
-   "name": "淬羽赫默"
+   "name": "淬羽赫默",
+   "skin": true,
+   "skinName": "栖息",
+   "skinId": "char_1031_slent2@epoque#32",
+   "skinCount": 1
   },
   {
    "i": 52,
    "charId": "char_400_weedy",
-   "name": "温蒂"
+   "name": "温蒂",
+   "skin": true,
+   "skinName": "糖果仙子",
+   "skinId": "char_400_weedy@snow#2",
+   "skinCount": 2
   },
   {
    "i": 53,
@@ -270,27 +458,47 @@
   {
    "i": 54,
    "charId": "char_377_gdglow",
-   "name": "澄闪"
+   "name": "澄闪",
+   "skin": true,
+   "skinName": "夏卉 FA394",
+   "skinId": "char_377_gdglow@summer#12",
+   "skinCount": 3
   },
   {
    "i": 55,
    "charId": "char_456_ash",
-   "name": "灰烬"
+   "name": "灰烬",
+   "skin": true,
+   "skinName": "游侠",
+   "skinId": "char_456_ash@rainbow6#1",
+   "skinCount": 1
   },
   {
    "i": 56,
    "charId": "char_1040_blaze2",
-   "name": "烛煌"
+   "name": "烛煌",
+   "skin": true,
+   "skinName": "夜归人",
+   "skinId": "char_1040_blaze2@winter#5",
+   "skinCount": 1
   },
   {
    "i": 57,
    "charId": "char_420_flamtl",
-   "name": "焰尾"
+   "name": "焰尾",
+   "skin": true,
+   "skinName": "小健将",
+   "skinId": "char_420_flamtl@game#2",
+   "skinCount": 1
   },
   {
    "i": 58,
    "charId": "char_1020_reed2",
-   "name": "焰影苇草"
+   "name": "焰影苇草",
+   "skin": true,
+   "skinName": "博物",
+   "skinId": "char_1020_reed2@epoque#30",
+   "skinCount": 3
   },
   {
    "i": 59,
@@ -300,12 +508,20 @@
   {
    "i": 60,
    "charId": "char_017_huang",
-   "name": "煌"
+   "name": "煌",
+   "skin": true,
+   "skinName": "易爆蓝焰",
+   "skinId": "char_017_huang@witch#5",
+   "skinCount": 2
   },
   {
    "i": 61,
    "charId": "char_4141_marcil",
-   "name": "玛露西尔"
+   "name": "玛露西尔",
+   "skin": true,
+   "skinName": "泰拉冒险",
+   "skinId": "char_4141_marcil@dungeon#1",
+   "skinCount": 1
   },
   {
    "i": 62,
@@ -315,27 +531,47 @@
   {
    "i": 63,
    "charId": "char_1033_swire2",
-   "name": "琳琅诗怀雅"
+   "name": "琳琅诗怀雅",
+   "skin": true,
+   "skinName": "律动方格",
+   "skinId": "char_1033_swire2@ambienceSynesthesia#4",
+   "skinCount": 1
   },
   {
    "i": 64,
    "charId": "char_479_sleach",
-   "name": "琴柳"
+   "name": "琴柳",
+   "skin": true,
+   "skinName": "识芳",
+   "skinId": "char_479_sleach@epoque#14",
+   "skinCount": 2
   },
   {
    "i": 65,
    "charId": "char_423_blemsh",
-   "name": "瑕光"
+   "name": "瑕光",
+   "skin": true,
+   "skinName": "异月灾裔",
+   "skinId": "char_423_blemsh@witch#2",
+   "skinCount": 2
   },
   {
    "i": 66,
    "charId": "char_4195_radian",
-   "name": "电弧"
+   "name": "电弧",
+   "skin": true,
+   "skinName": "乱数法则",
+   "skinId": "char_4195_radian@game#8",
+   "skinCount": 1
   },
   {
    "i": 67,
    "charId": "char_1026_gvial2",
-   "name": "百炼嘉维尔"
+   "name": "百炼嘉维尔",
+   "skin": true,
+   "skinName": "悠然假日 HD26",
+   "skinId": "char_1026_gvial2@summer#12",
+   "skinCount": 1
   },
   {
    "i": 68,
@@ -345,27 +581,47 @@
   {
    "i": 69,
    "charId": "char_332_archet",
-   "name": "空弦"
+   "name": "空弦",
+   "skin": true,
+   "skinName": "至虔者荣光",
+   "skinId": "char_332_archet@sale#14",
+   "skinCount": 2
   },
   {
    "i": 70,
    "charId": "char_1016_agoat2",
-   "name": "纯烬艾雅法拉"
+   "name": "纯烬艾雅法拉",
+   "skin": true,
+   "skinName": "远行前的野餐",
+   "skinId": "char_1016_agoat2@epoque#34",
+   "skinCount": 2
   },
   {
    "i": 71,
    "charId": "char_1035_wisdel",
-   "name": "维什戴尔"
+   "name": "维什戴尔",
+   "skin": true,
+   "skinName": "超新星",
+   "skinId": "char_1035_wisdel@sale#14",
+   "skinCount": 2
   },
   {
    "i": 72,
    "charId": "char_1019_siege2",
-   "name": "维娜·维多利亚"
+   "name": "维娜·维多利亚",
+   "skin": true,
+   "skinName": "光耀之途",
+   "skinId": "char_1019_siege2@epoque#50",
+   "skinCount": 1
   },
   {
    "i": 73,
    "charId": "char_1028_texas2",
-   "name": "缄默德克萨斯"
+   "name": "缄默德克萨斯",
+   "skin": true,
+   "skinName": "幽兰秘辛",
+   "skinId": "char_1028_texas2@epoque#36",
+   "skinCount": 2
   },
   {
    "i": 74,
@@ -375,62 +631,110 @@
   {
    "i": 75,
    "charId": "char_249_mlyss",
-   "name": "缪尔赛思"
+   "name": "缪尔赛思",
+   "skin": true,
+   "skinName": "新枝",
+   "skinId": "char_249_mlyss@boc#8",
+   "skinCount": 2
   },
   {
    "i": 76,
    "charId": "char_1014_nearl2",
-   "name": "耀骑士临光"
+   "name": "耀骑士临光",
+   "skin": true,
+   "skinName": "复现荣光",
+   "skinId": "char_1014_nearl2@epoque#17",
+   "skinCount": 1
   },
   {
    "i": 77,
    "charId": "char_103_angel",
-   "name": "能天使"
+   "name": "能天使",
+   "skin": true,
+   "skinName": "午夜邮差",
+   "skinId": "char_103_angel@sale#8",
+   "skinCount": 3
   },
   {
    "i": 78,
    "charId": "char_4009_irene",
-   "name": "艾丽妮"
+   "name": "艾丽妮",
+   "skin": true,
+   "skinName": "飞羽",
+   "skinId": "char_4009_irene@ambienceSynesthesia#3",
+   "skinCount": 2
   },
   {
    "i": 79,
    "charId": "char_4123_ela",
-   "name": "艾拉"
+   "name": "艾拉",
+   "skin": true,
+   "skinName": "密室",
+   "skinId": "char_4123_ela@rainbow6#2",
+   "skinCount": 1
   },
   {
    "i": 80,
    "charId": "char_180_amgoat",
-   "name": "艾雅法拉"
+   "name": "艾雅法拉",
+   "skin": true,
+   "skinName": "夏卉 FA018",
+   "skinId": "char_180_amgoat@summer#5",
+   "skinCount": 2
   },
   {
    "i": 81,
    "charId": "char_1038_whitw2",
-   "name": "荒芜拉普兰德"
+   "name": "荒芜拉普兰德",
+   "skin": true,
+   "skinName": "无序的谦卑",
+   "skinId": "char_1038_whitw2@sale#15",
+   "skinCount": 1
   },
   {
    "i": 82,
    "charId": "char_213_mostma",
-   "name": "莫斯提马"
+   "name": "莫斯提马",
+   "skin": true,
+   "skinName": "除魅",
+   "skinId": "char_213_mostma@epoque#5",
+   "skinCount": 2
   },
   {
    "i": 83,
    "charId": "char_4117_ray",
-   "name": "莱伊"
+   "name": "莱伊",
+   "skin": true,
+   "skinName": "夏卉 FA098",
+   "skinId": "char_4117_ray@summer#22",
+   "skinCount": 2
   },
   {
    "i": 84,
    "charId": "char_300_phenxi",
-   "name": "菲亚梅塔"
+   "name": "菲亚梅塔",
+   "skin": true,
+   "skinName": "至圣誓言",
+   "skinId": "char_300_phenxi@witch#4",
+   "skinCount": 2
   },
   {
    "i": 85,
    "charId": "char_4193_lemuen",
-   "name": "蕾缪安"
+   "name": "蕾缪安",
+   "skin": true,
+   "skinName": "暮星安魂曲",
+   "skinId": "char_4193_lemuen@ambienceSynesthesia#7",
+   "skinCount": 1
   },
   {
    "i": 86,
    "charId": "char_4098_vvana",
-   "name": "薇薇安娜"
+   "name": "薇薇安娜",
+   "skin": true,
+   "skinName": "寄自奥格尼斯科",
+   "skinId": "char_4098_vvana@epoque#40",
+   "skinCount": 1
   },
   {
    "i": 87,
@@ -445,67 +749,119 @@
   {
    "i": 89,
    "charId": "char_430_fartth",
-   "name": "远牙"
+   "name": "远牙",
+   "skin": true,
+   "skinName": "捉风",
+   "skinId": "char_430_fartth@whirlwind#5",
+   "skinCount": 1
   },
   {
    "i": 90,
    "charId": "char_391_rosmon",
-   "name": "迷迭香"
+   "name": "迷迭香",
+   "skin": true,
+   "skinName": "轻盈一梦",
+   "skinId": "char_391_rosmon@sale#16",
+   "skinCount": 2
   },
   {
    "i": 91,
    "charId": "char_4202_haruka",
-   "name": "遥"
+   "name": "遥",
+   "skin": true,
+   "skinName": "常世之幻",
+   "skinId": "char_4202_haruka@iteration#6",
+   "skinCount": 1
   },
   {
    "i": 92,
    "charId": "char_358_lisa",
-   "name": "铃兰"
+   "name": "铃兰",
+   "skin": true,
+   "skinName": "雪霁",
+   "skinId": "char_358_lisa@epoque#22",
+   "skinCount": 3
   },
   {
    "i": 93,
    "charId": "char_4116_blkkgt",
-   "name": "锏"
+   "name": "锏",
+   "skin": true,
+   "skinName": "暗月的影子",
+   "skinId": "char_4116_blkkgt@witch#5",
+   "skinCount": 1
   },
   {
    "i": 94,
    "charId": "char_147_shining",
-   "name": "闪灵"
+   "name": "闪灵",
+   "skin": true,
+   "skinName": "静谧午夜 DN02",
+   "skinId": "char_147_shining@summer#1",
+   "skinCount": 1
   },
   {
    "i": 95,
    "charId": "char_4132_ascln",
-   "name": "阿斯卡纶"
+   "name": "阿斯卡纶",
+   "skin": true,
+   "skinName": "趋光之暗",
+   "skinId": "char_4132_ascln@iteration#4",
+   "skinCount": 1
   },
   {
    "i": 96,
    "charId": "char_010_chen",
-   "name": "陈"
+   "name": "陈",
+   "skin": true,
+   "skinName": "初晴",
+   "skinId": "char_010_chen@sale#10",
+   "skinCount": 2
   },
   {
    "i": 97,
    "charId": "char_4010_etlchi",
-   "name": "隐德来希"
+   "name": "隐德来希",
+   "skin": true,
+   "skinName": "耀目之蓝",
+   "skinId": "char_4010_etlchi@winter#5",
+   "skinCount": 1
   },
   {
    "i": 98,
    "charId": "char_4027_heyak",
-   "name": "霍尔海雅"
+   "name": "霍尔海雅",
+   "skin": true,
+   "skinName": "恒久祭礼",
+   "skinId": "char_4027_heyak@epoque#50",
+   "skinCount": 2
   },
   {
    "i": 99,
    "charId": "char_222_bpipe",
-   "name": "风笛"
+   "name": "风笛",
+   "skin": true,
+   "skinName": "皇家近卫",
+   "skinId": "char_222_bpipe@epoque#28",
+   "skinCount": 3
   },
   {
    "i": 100,
    "charId": "char_4134_cetsyr",
-   "name": "魔王"
+   "name": "魔王",
+   "skin": true,
+   "skinName": "追悼",
+   "skinId": "char_4134_cetsyr@epoque#50",
+   "skinCount": 1
   },
   {
    "i": 101,
    "charId": "char_4055_bgsnow",
-   "name": "鸿雪"
+   "name": "鸿雪",
+   "skin": true,
+   "skinName": "字句中的雪原",
+   "skinId": "char_4055_bgsnow@wild#7",
+   "skinCount": 2
   },
   {
    "i": 102,
@@ -515,17 +871,31 @@
   {
    "i": 103,
    "charId": "char_248_mgllan",
-   "name": "麦哲伦"
+   "name": "麦哲伦",
+   "skin": true,
+   "skinName": "回味冰霜雪",
+   "skinId": "char_248_mgllan@kitchen#1",
+   "skinCount": 1
   },
   {
    "i": 104,
    "charId": "char_2025_shu",
-   "name": "黍"
+   "name": "黍",
+   "skin": true,
+   "skinName": "春日宴",
+   "skinId": "char_2025_shu@nian#11",
+   "skinCount": 1
   },
   {
    "i": 105,
    "charId": "char_340_shwaz",
-   "name": "黑"
+   "name": "黑",
+   "skin": true,
+   "skinName": "厚礼",
+   "skinId": "char_340_shwaz@snow#1",
+   "skinCount": 2
   }
- ]
+ ],
+ "skinCount": 92,
+ "skinNote": "每人取最早的一套时装；无时装者不含 skin 字段"
 }
