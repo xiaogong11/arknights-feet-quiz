@@ -237,7 +237,8 @@
    "skins": [
     {
      "id": "char_1046_sbell2@ambienceSynesthesia#8",
-     "name": "曙光祝颂"
+     "name": "曙光祝颂",
+     "noQuiz": true
     }
    ]
   },
@@ -814,7 +815,8 @@
    "skins": [
     {
      "id": "char_479_sleach@epoque#14",
-     "name": "识芳"
+     "name": "识芳",
+     "noQuiz": true
     },
     {
      "id": "char_479_sleach@summer#11",
@@ -829,7 +831,8 @@
    "skins": [
     {
      "id": "char_423_blemsh@witch#2",
-     "name": "异月灾裔"
+     "name": "异月灾裔",
+     "noQuiz": true
     },
     {
      "id": "char_423_blemsh@littlePony#1",
@@ -905,7 +908,8 @@
     },
     {
      "id": "char_1035_wisdel@game#9",
-     "name": "绝对主角"
+     "name": "绝对主角",
+     "noQuiz": true
     }
    ]
   },
@@ -1199,7 +1203,8 @@
    "skins": [
     {
      "id": "char_4132_ascln@iteration#4",
-     "name": "趋光之暗"
+     "name": "趋光之暗",
+     "noQuiz": true
     }
    ]
   },
@@ -1236,7 +1241,8 @@
    "skins": [
     {
      "id": "char_4027_heyak@epoque#50",
-     "name": "恒久祭礼"
+     "name": "恒久祭礼",
+     "noQuiz": true
     },
     {
      "id": "char_4027_heyak@ambienceSynesthesia#4",
@@ -1270,7 +1276,8 @@
    "skins": [
     {
      "id": "char_4134_cetsyr@epoque#50",
-     "name": "追悼"
+     "name": "追悼",
+     "noQuiz": true
     }
    ]
   },
@@ -1312,7 +1319,8 @@
    "skins": [
     {
      "id": "char_2025_shu@nian#11",
-     "name": "春日宴"
+     "name": "春日宴",
+     "noQuiz": true
     }
    ]
   },
