@@ -1,0 +1,62 @@
+# GitHub Pages 部署工作流
+#
+# 用途：当仓库 Settings → Pages → Source 选的是「GitHub Actions」时，
+#       由这个工作流把仓库根目录（已经是构建好的静态站）发布出去。
+#
+# 注意：如果 Source 选的是「Deploy from a branch」（main / root），
+#       GitHub 会自己发布分支内容，不需要工作流。
+#       此时下面那个 gate 步骤会检测到并直接跳过，不会报红。
+
+name: Deploy to GitHub Pages
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: false
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - uses: actions/checkout@v4
+
+      # 只在 Pages 的 Source 真的是 GitHub Actions 时才继续，
+      # 否则静默跳过（避免选了分支部署却看到一条失败记录）。
+      - id: gate
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          set +e
+          build_type=$(gh api "repos/${GITHUB_REPOSITORY}/pages" --jq .build_type 2>/dev/null)
+          set -e
+          echo "Pages build_type = ${build_type:-<未开启或不可读>}"
+          if [ "$build_type" = "workflow" ]; then
+            echo "run=yes" >> "$GITHUB_OUTPUT"
+          else
+            echo "run=no" >> "$GITHUB_OUTPUT"
+            echo "::notice::Pages 未使用 GitHub Actions 作为 Source，跳过部署。站点由分支直接提供。"
+          fi
+
+      - if: steps.gate.outputs.run == 'yes'
+        uses: actions/configure-pages@v5
+
+      - if: steps.gate.outputs.run == 'yes'
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: .
+
+      - if: steps.gate.outputs.run == 'yes'
+        id: deployment
+        uses: actions/deploy-pages@v4

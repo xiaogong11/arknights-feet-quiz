@@ -1,0 +1,531 @@
+{
+ "order": "name",
+ "count": 105,
+ "index": [
+  {
+   "i": 1,
+   "charId": "char_4179_monstr",
+   "name": "Mon3tr"
+  },
+  {
+   "i": 2,
+   "charId": "char_113_cqbw",
+   "name": "W"
+  },
+  {
+   "i": 3,
+   "charId": "char_4182_oblvns",
+   "name": "丰川祥子"
+  },
+  {
+   "i": 4,
+   "charId": "char_1015_aglna2",
+   "name": "予愿安洁莉娜"
+  },
+  {
+   "i": 5,
+   "charId": "char_4082_qiubai",
+   "name": "仇白"
+  },
+  {
+   "i": 6,
+   "charId": "char_2023_ling",
+   "name": "令"
+  },
+  {
+   "i": 7,
+   "charId": "char_4087_ines",
+   "name": "伊内丝"
+  },
+  {
+   "i": 8,
+   "charId": "char_134_ifrit",
+   "name": "伊芙利特"
+  },
+  {
+   "i": 9,
+   "charId": "char_4058_pepe",
+   "name": "佩佩"
+  },
+  {
+   "i": 10,
+   "charId": "char_1013_chen2",
+   "name": "假日威龙陈"
+  },
+  {
+   "i": 11,
+   "charId": "char_003_kalts",
+   "name": "凯尔希"
+  },
+  {
+   "i": 12,
+   "charId": "char_1052_kalts2",
+   "name": "凯尔希·思衡托"
+  },
+  {
+   "i": 13,
+   "charId": "char_2013_cerber",
+   "name": "刻俄柏"
+  },
+  {
+   "i": 14,
+   "charId": "char_426_billro",
+   "name": "卡涅利安"
+  },
+  {
+   "i": 15,
+   "charId": "char_4228_closur",
+   "name": "可露希尔"
+  },
+  {
+   "i": 16,
+   "charId": "char_350_surtr",
+   "name": "史尔特尔"
+  },
+  {
+   "i": 17,
+   "charId": "char_4039_horn",
+   "name": "号角"
+  },
+  {
+   "i": 18,
+   "charId": "char_1043_leizi2",
+   "name": "司霆惊蛰"
+  },
+  {
+   "i": 19,
+   "charId": "char_1046_sbell2",
+   "name": "圣聆初雪"
+  },
+  {
+   "i": 20,
+   "charId": "char_245_cello",
+   "name": "塑心"
+  },
+  {
+   "i": 21,
+   "charId": "char_202_demkni",
+   "name": "塞雷娅"
+  },
+  {
+   "i": 22,
+   "charId": "char_2015_dusk",
+   "name": "夕"
+  },
+  {
+   "i": 23,
+   "charId": "char_4048_doroth",
+   "name": "多萝西"
+  },
+  {
+   "i": 24,
+   "charId": "char_179_cgbird",
+   "name": "夜莺"
+  },
+  {
+   "i": 25,
+   "charId": "char_4146_nymph",
+   "name": "妮芙"
+  },
+  {
+   "i": 26,
+   "charId": "char_4138_narant",
+   "name": "娜仁图亚"
+  },
+  {
+   "i": 27,
+   "charId": "char_4212_nasti",
+   "name": "娜斯提"
+  },
+  {
+   "i": 28,
+   "charId": "char_291_aglina",
+   "name": "安洁莉娜"
+  },
+  {
+   "i": 29,
+   "charId": "char_362_saga",
+   "name": "嵯峨"
+  },
+  {
+   "i": 30,
+   "charId": "char_485_pallas",
+   "name": "帕拉斯"
+  },
+  {
+   "i": 31,
+   "charId": "char_2014_nian",
+   "name": "年"
+  },
+  {
+   "i": 32,
+   "charId": "char_1502_crosly",
+   "name": "弑君者"
+  },
+  {
+   "i": 33,
+   "charId": "char_1023_ghost2",
+   "name": "归溟幽灵鲨"
+  },
+  {
+   "i": 34,
+   "charId": "char_4026_vulpis",
+   "name": "忍冬"
+  },
+  {
+   "i": 35,
+   "charId": "char_1051_headb2",
+   "name": "怒潮凛冬"
+  },
+  {
+   "i": 36,
+   "charId": "char_112_siege",
+   "name": "推进之王"
+  },
+  {
+   "i": 37,
+   "charId": "char_2012_typhon",
+   "name": "提丰"
+  },
+  {
+   "i": 38,
+   "charId": "char_4065_judge",
+   "name": "斥罪"
+  },
+  {
+   "i": 39,
+   "charId": "char_1044_hsgma2",
+   "name": "斩业星熊"
+  },
+  {
+   "i": 40,
+   "charId": "char_263_skadi",
+   "name": "斯卡蒂"
+  },
+  {
+   "i": 41,
+   "charId": "char_1041_angel2",
+   "name": "新约能天使"
+  },
+  {
+   "i": 42,
+   "charId": "char_197_poca",
+   "name": "早露"
+  },
+  {
+   "i": 43,
+   "charId": "char_136_hsguma",
+   "name": "星熊"
+  },
+  {
+   "i": 44,
+   "charId": "char_4080_lin",
+   "name": "林"
+  },
+  {
+   "i": 45,
+   "charId": "char_416_zumama",
+   "name": "森蚺"
+  },
+  {
+   "i": 46,
+   "charId": "char_474_glady",
+   "name": "歌蕾蒂娅"
+  },
+  {
+   "i": 47,
+   "charId": "char_450_necras",
+   "name": "死芒"
+  },
+  {
+   "i": 48,
+   "charId": "char_311_mudrok",
+   "name": "泥岩"
+  },
+  {
+   "i": 49,
+   "charId": "char_1012_skadi2",
+   "name": "浊心斯卡蒂"
+  },
+  {
+   "i": 50,
+   "charId": "char_1034_jesca2",
+   "name": "涤火杰西卡"
+  },
+  {
+   "i": 51,
+   "charId": "char_1031_slent2",
+   "name": "淬羽赫默"
+  },
+  {
+   "i": 52,
+   "charId": "char_400_weedy",
+   "name": "温蒂"
+  },
+  {
+   "i": 53,
+   "charId": "char_1047_halo2",
+   "name": "溯光星源"
+  },
+  {
+   "i": 54,
+   "charId": "char_377_gdglow",
+   "name": "澄闪"
+  },
+  {
+   "i": 55,
+   "charId": "char_456_ash",
+   "name": "灰烬"
+  },
+  {
+   "i": 56,
+   "charId": "char_1040_blaze2",
+   "name": "烛煌"
+  },
+  {
+   "i": 57,
+   "charId": "char_420_flamtl",
+   "name": "焰尾"
+  },
+  {
+   "i": 58,
+   "charId": "char_1020_reed2",
+   "name": "焰影苇草"
+  },
+  {
+   "i": 59,
+   "charId": "char_1048_orchd2",
+   "name": "焰狐龙梓兰"
+  },
+  {
+   "i": 60,
+   "charId": "char_017_huang",
+   "name": "煌"
+  },
+  {
+   "i": 61,
+   "charId": "char_4141_marcil",
+   "name": "玛露西尔"
+  },
+  {
+   "i": 62,
+   "charId": "char_4235_thumpy",
+   "name": "珊比"
+  },
+  {
+   "i": 63,
+   "charId": "char_1033_swire2",
+   "name": "琳琅诗怀雅"
+  },
+  {
+   "i": 64,
+   "charId": "char_479_sleach",
+   "name": "琴柳"
+  },
+  {
+   "i": 65,
+   "charId": "char_423_blemsh",
+   "name": "瑕光"
+  },
+  {
+   "i": 66,
+   "charId": "char_4195_radian",
+   "name": "电弧"
+  },
+  {
+   "i": 67,
+   "charId": "char_1026_gvial2",
+   "name": "百炼嘉维尔"
+  },
+  {
+   "i": 68,
+   "charId": "char_4204_mantra",
+   "name": "真言"
+  },
+  {
+   "i": 69,
+   "charId": "char_332_archet",
+   "name": "空弦"
+  },
+  {
+   "i": 70,
+   "charId": "char_1016_agoat2",
+   "name": "纯烬艾雅法拉"
+  },
+  {
+   "i": 71,
+   "charId": "char_1035_wisdel",
+   "name": "维什戴尔"
+  },
+  {
+   "i": 72,
+   "charId": "char_1019_siege2",
+   "name": "维娜·维多利亚"
+  },
+  {
+   "i": 73,
+   "charId": "char_1028_texas2",
+   "name": "缄默德克萨斯"
+  },
+  {
+   "i": 74,
+   "charId": "char_4056_titi",
+   "name": "缇缇"
+  },
+  {
+   "i": 75,
+   "charId": "char_249_mlyss",
+   "name": "缪尔赛思"
+  },
+  {
+   "i": 76,
+   "charId": "char_1014_nearl2",
+   "name": "耀骑士临光"
+  },
+  {
+   "i": 77,
+   "charId": "char_103_angel",
+   "name": "能天使"
+  },
+  {
+   "i": 78,
+   "charId": "char_4009_irene",
+   "name": "艾丽妮"
+  },
+  {
+   "i": 79,
+   "charId": "char_4123_ela",
+   "name": "艾拉"
+  },
+  {
+   "i": 80,
+   "charId": "char_180_amgoat",
+   "name": "艾雅法拉"
+  },
+  {
+   "i": 81,
+   "charId": "char_1038_whitw2",
+   "name": "荒芜拉普兰德"
+  },
+  {
+   "i": 82,
+   "charId": "char_213_mostma",
+   "name": "莫斯提马"
+  },
+  {
+   "i": 83,
+   "charId": "char_4117_ray",
+   "name": "莱伊"
+  },
+  {
+   "i": 84,
+   "charId": "char_300_phenxi",
+   "name": "菲亚梅塔"
+  },
+  {
+   "i": 85,
+   "charId": "char_4193_lemuen",
+   "name": "蕾缪安"
+  },
+  {
+   "i": 86,
+   "charId": "char_4098_vvana",
+   "name": "薇薇安娜"
+  },
+  {
+   "i": 87,
+   "charId": "char_4229_aphris",
+   "name": "谬因"
+  },
+  {
+   "i": 88,
+   "charId": "char_1050_chen3",
+   "name": "赤刃明霄陈"
+  },
+  {
+   "i": 89,
+   "charId": "char_430_fartth",
+   "name": "远牙"
+  },
+  {
+   "i": 90,
+   "charId": "char_391_rosmon",
+   "name": "迷迭香"
+  },
+  {
+   "i": 91,
+   "charId": "char_4202_haruka",
+   "name": "遥"
+  },
+  {
+   "i": 92,
+   "charId": "char_358_lisa",
+   "name": "铃兰"
+  },
+  {
+   "i": 93,
+   "charId": "char_4116_blkkgt",
+   "name": "锏"
+  },
+  {
+   "i": 94,
+   "charId": "char_147_shining",
+   "name": "闪灵"
+  },
+  {
+   "i": 95,
+   "charId": "char_4132_ascln",
+   "name": "阿斯卡纶"
+  },
+  {
+   "i": 96,
+   "charId": "char_010_chen",
+   "name": "陈"
+  },
+  {
+   "i": 97,
+   "charId": "char_4010_etlchi",
+   "name": "隐德来希"
+  },
+  {
+   "i": 98,
+   "charId": "char_4027_heyak",
+   "name": "霍尔海雅"
+  },
+  {
+   "i": 99,
+   "charId": "char_222_bpipe",
+   "name": "风笛"
+  },
+  {
+   "i": 100,
+   "charId": "char_4134_cetsyr",
+   "name": "魔王"
+  },
+  {
+   "i": 101,
+   "charId": "char_4055_bgsnow",
+   "name": "鸿雪"
+  },
+  {
+   "i": 102,
+   "charId": "char_1029_yato2",
+   "name": "麒麟R夜刀"
+  },
+  {
+   "i": 103,
+   "charId": "char_248_mgllan",
+   "name": "麦哲伦"
+  },
+  {
+   "i": 104,
+   "charId": "char_2025_shu",
+   "name": "黍"
+  },
+  {
+   "i": 105,
+   "charId": "char_340_shwaz",
+   "name": "黑"
+  }
+ ]
+}
